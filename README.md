@@ -8,7 +8,6 @@
 
 ## Environment
 - Python == 3.8
-- 
 
 ## Files
 - dashboard.py : 대시보드 실행 파일
